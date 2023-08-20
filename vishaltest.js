@@ -36,7 +36,7 @@ function listNFTs() {
 		console.log("topWear: "+NFTs[i].topWear);
 		console.log("accessory: "+NFTs[i].accessory);
 	}
-
+//vishal
 }
 
 // print the total number of NFTs we have minted to the console
